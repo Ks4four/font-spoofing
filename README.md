@@ -6,7 +6,7 @@
    2. For ttc: `ttx -t name -y 0 inputfile1 [... inputfileN]`
 3. Matching
 
-|Fontname|1|2|3|4|5|
+|Fontname|-2|-1|0|1|2|
 |----------|------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|
 |Sarasa UI|**Extralight**<br>`sarasa-ui-sc-extralight.ttf`<br>`sarasa-ui-sc-extralightitalic.ttf`|**Light**<br>`sarasa-ui-sc-light.ttf`<br>`sarasa-ui-sc-lightitalic.ttf`|**Regular**<br>`sarasa-ui-sc-regular.ttf`<br>`sarasa-ui-sc-italic.ttf`|**Semibold**<br>`sarasa-ui-sc-semibold.ttf`<br>`sarasa-ui-sc-semibolditalic.ttf`|**Bold**<br>`sarasa-ui-sc-bold.ttf`<br>`sarasa-ui-sc-bolditalic.ttf`|
 |Sarasa Mono|**Extralight**<br>`sarasa-mono-sc-extralight.ttf`<br>`sarasa-mono-sc-extralightitalic.ttf`|**Light**<br>`sarasa-mono-sc-light.ttf`<br>`sarasa-mono-sc-lightitalic.ttf`|**Regular**<br>`sarasa-mono-sc-regular.ttf`<br>`sarasa-mono-sc-italic.ttf`|**Semibold**<br>`sarasa-mono-sc-semibold.ttf`<br>`sarasa-mono-sc-semibolditalic.ttf`|**Bold**<br>`sarasa-mono-sc-bold.ttf`<br>`sarasa-mono-sc-bolditalic.ttf`|
