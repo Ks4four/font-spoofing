@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.43">
+
+  <name>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x403">
+      Negreta
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x403">
+      Microsoft YaHei Negreta
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x405">
+      tučné
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x405">
+      Microsoft YaHei tučné
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x406">
+      fed
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x406">
+      Microsoft YaHei fed
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x407">
+      Fett
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x407">
+      Microsoft YaHei Fett
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x408">
+      Έντονα
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x408">
+      Microsoft YaHei Έντονα
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      © 2022  Microsoft Corporation. All Rights Reserved. Portions © 2022 Beijing Founder Electronics Co. Ltd. All Rights Reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Microsoft YaHei
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Microsoft YaHei-Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Microsoft YaHei Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 6.30
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      MicrosoftYaHei-Bold
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Microsoft YaHei is a trademark of the Microsoft group of companies.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Microsoft Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Founder
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      The font glyphs are certified compliant with China standard GB18030-2000 with the font name Founder Lan Ting Hei.  Microsoft Licensed the font glyph from Beijing Founder  Electronics Co. Ltd.&#13;
+本字库字形从北京北大方正电子有限公司授权。本字库字形 以字库名方正兰亭黑通过中国标准符合性检测，符合中国 GB18030-2000标准。
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.microsoft.com/typography
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.founder.com.cn/cn
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Microsoft supplied font. You may use this font to create, display and print content as permitted by the license terms, or terms of use, of the Microsoft product, service or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.microsoft.com/typography/fonts
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40a">
+      Negrita
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40a">
+      Microsoft YaHei Negrita
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40b">
+      Lihavoitu
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40b">
+      Microsoft YaHei Lihavoitu
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40c">
+      Gras
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40c">
+      Microsoft YaHei Gras
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40e">
+      Félkövér
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40e">
+      Microsoft YaHei Félkövér
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x410">
+      Grassetto
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x410">
+      Microsoft YaHei Grassetto
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x413">
+      Vet
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x413">
+      Microsoft YaHei Vet
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x414">
+      Halvfet
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x414">
+      Microsoft YaHei Halvfet
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x415">
+      Pogrubiony
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x415">
+      Microsoft YaHei Pogrubiony
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x416">
+      Negrito
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x416">
+      Microsoft YaHei Negrito
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x419">
+      Полужирный
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x419">
+      Microsoft YaHei Полужирный
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x41b">
+      Tučné
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41b">
+      Microsoft YaHei Tučné
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x41d">
+      Fet
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41d">
+      Microsoft YaHei Fet
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x41f">
+      Kalın
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41f">
+      Microsoft YaHei Kalın
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x424">
+      Krepko
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x424">
+      Microsoft YaHei Krepko
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x42d">
+      Lodia
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x42d">
+      Microsoft YaHei Lodia
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      © 2022 微软公司版权所有 © 2022 北京北大方正电子有限公司部分版权所有
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      微软雅黑
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x804">
+      微软雅黑-Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      微软雅黑 Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x804">
+      Version 6.30
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x804">
+      MicrosoftYaHei-Bold
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x804">
+      Microsoft YaHei is a trademark of the Microsoft group of companies.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x804">
+      Microsoft Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x804">
+      北京北大方正电子有限公司
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x804">
+      The font glyphs are certified compliant with China standard GB18030-2000 with the font name Founder Lan Ting Hei.  Microsoft Licensed the font glyph from Beijing Founder  Electronics Co. Ltd.&#13;
+本字库字形从北京北大方正电子有限公司授权。本字库字形 以字库名方正兰亭黑通过中国标准符合性检测，符合中国 GB18030-2000标准。
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x804">
+      http://www.microsoft.com/typography
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x804">
+      http://www.founder.com.cn/cn
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x804">
+      Microsoft supplied font. You may use this font to create, display and print content as permitted by the license terms, or terms of use, of the Microsoft product, service or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x80a">
+      Negrita
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x80a">
+      Microsoft YaHei Negrita
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x816">
+      Negrito
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x816">
+      Microsoft YaHei Negrito
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0xc0a">
+      Negrita
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0xc0a">
+      Microsoft YaHei Negrita
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0xc0c">
+      Gras
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0xc0c">
+      Microsoft YaHei Gras
+    </namerecord>
+  </name>
+
+</ttFont>
